@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TrenchR"]
+	path = TrenchR
+	url = https://github.com/trenchproject/trenchr
+	shallow = true
+	registered = true
